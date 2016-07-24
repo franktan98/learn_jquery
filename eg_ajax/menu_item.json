@@ -1,0 +1,18 @@
+
+{
+    "person1": {
+        "name":"kat",
+        "age":21,
+        "contact":"012-231312312"
+        },
+    "person": {
+        "name":"noname",
+        "age":25,
+        "contact":"012-231312312"
+        },
+    "person2": {
+        "name":"hk",
+        "age":21,
+        "contact":"012-231312312"
+        }
+}
