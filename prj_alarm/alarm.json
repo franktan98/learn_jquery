@@ -1,0 +1,13 @@
+{
+    "alarm1" :{
+        "type" : "one_time",
+        "date" : "2016/07/11",
+        "time" : "21:45",
+        "action" : {
+            "function" : "show_message",
+            "message": "alarm",
+            "display_location" :  "#json-div"
+        }
+    }
+    
+}
